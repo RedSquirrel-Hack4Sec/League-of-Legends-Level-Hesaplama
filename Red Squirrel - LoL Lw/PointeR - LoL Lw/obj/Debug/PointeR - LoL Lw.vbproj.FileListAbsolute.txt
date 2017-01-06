@@ -1,0 +1,24 @@
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR - LoL Lw\PointeR - LoL Lw\bin\Debug\PointeR - LoL Lw.exe.config
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR - LoL Lw\PointeR - LoL Lw\bin\Debug\PointeR - LoL Lw.exe
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR - LoL Lw\PointeR - LoL Lw\bin\Debug\PointeR - LoL Lw.pdb
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR - LoL Lw\PointeR - LoL Lw\bin\Debug\PointeR - LoL Lw.xml
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\PointeR___LoL_Lw.Form1.resources
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\PointeR___LoL_Lw.Resources.resources
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\PointeR - LoL Lw.vbproj.GenerateResource.Cache
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\PointeR - LoL Lw.exe
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\PointeR - LoL Lw.xml
+C:\Users\Pointers\Documents\Visual Studio 2013\Projects\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\PointeR - LoL Lw.pdb
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\PointeR - LoL Lw\PointeR - LoL Lw\bin\Debug\PointeR - LoL Lw.exe.config
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\PointeR - LoL Lw.exe
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\PointeR - LoL Lw.xml
+C:\Users\PointeR\Documents\Visual Studio 2013\Projects\PointeR\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\PointeR - LoL Lw.pdb
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\PointeR - LoL Lw.vbproj.GenerateResource.Cache
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\PointeR - LoL Lw\PointeR - LoL Lw\bin\Debug\Red Squirrel - LoL Lw.exe.config
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\PointeR - LoL Lw\PointeR - LoL Lw\bin\Debug\Red Squirrel - LoL Lw.exe
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\PointeR - LoL Lw\PointeR - LoL Lw\bin\Debug\Red Squirrel - LoL Lw.pdb
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\PointeR - LoL Lw\PointeR - LoL Lw\bin\Debug\Red Squirrel - LoL Lw.xml
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\RedSquirrel__LoL_Lw.Form1.resources
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\RedSquirrel__LoL_Lw.Resources.resources
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\Red Squirrel - LoL Lw.exe
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\Red Squirrel - LoL Lw.xml
+C:\Users\cimic\Documents\Visual Studio 2015\Projects\PointeR\PointeR - LoL Lw\PointeR - LoL Lw\obj\Debug\Red Squirrel - LoL Lw.pdb
